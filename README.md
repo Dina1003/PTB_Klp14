@@ -1,1 +1,5 @@
-# PTB_Klp14
+Pemograman Teknologi Bergerak
+Kelompok 14: 
+1. Aulia
+2. Dina
+3. Nia
